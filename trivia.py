@@ -79,6 +79,11 @@ while 1:  # Starting an infinite loop
             for key, value in question.items():
                 if isinstance(value, str):
                     question[key] = unquote(value)
+                if isinstance(value, list):
+                    for i, item in enumerate(value):
+                        if isinstance(item, str):
+                            question[key][i] = unquote(item)
+
 
         with open(
             f"{unquote(current)}.json", "w", newline=""
