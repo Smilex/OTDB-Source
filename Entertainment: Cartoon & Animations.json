@@ -1,0 +1,1192 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What was the number on Gerald's shirt in \"Hey Arnold!\"?",
+        "correct_answer": "33",
+        "incorrect_answers": [
+            "88",
+            "38",
+            "83"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the \"Shrek\" film franchise, Donkey is played by Eddie Murphy.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"Gravity Falls\", the character Bill Cipher remarks that \"the universe is what?\"",
+        "correct_answer": "A hologram ",
+        "incorrect_answers": [
+            "An illusion ",
+            "A simulation",
+            "Corrupting"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"SpongeBob SquarePants\", what is the name of Sandy Cheek's place of residence?",
+        "correct_answer": "Sandy's Treedome",
+        "incorrect_answers": [
+            "\"The Dome\"",
+            "Sandy's Bubble",
+            "Auquatic Reseach Centre"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of the following is not a Flintstones character?",
+        "correct_answer": "Lord Rockingham IX",
+        "incorrect_answers": [
+            "Rockhead Slate",
+            "The Great Gazoo",
+            "Barney Rubble"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the TV show \"Rick and Morty\", Rick uses the catchphrase \"Wubba Lubba Dub Dub\", which means what in Birdperson?",
+        "correct_answer": "I am in great pain, please help me.",
+        "incorrect_answers": [
+            "I pray that my life ends soon.",
+            "Lets get this party started!",
+            "I am suffering, please help me."
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"Avatar: The Last Airbender\" and \"The Legend of Korra\", Lavabending is a specialized bending technique of Firebending.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "The character White Diamond from Steven Universe, is voiced by who?",
+        "correct_answer": "Christine Ebersole",
+        "incorrect_answers": [
+            "Ellen McLain",
+            "Aly Michalka",
+            "Rihanna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of these characters live in a pineapple under the sea in the cartoon \"SpongeBob SquarePants\".",
+        "correct_answer": "SpongeBob SquarePants ",
+        "incorrect_answers": [
+            "Patrick Star",
+            "Squidward Tentacles",
+            "Mr. Krabs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the 1968 Cartoon Show \"Wacky Races\" what was the name of cavemen duo who rode in The Boulder Mobile?",
+        "correct_answer": "The Slag Brothers",
+        "incorrect_answers": [
+            "The Slate Brothers",
+            "The Rock Brothers",
+            "The Stone Brothers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which Sanrio character was introduced in 1996?",
+        "correct_answer": "Pompompurin",
+        "incorrect_answers": [
+            "My Melody",
+            "Badtz-Maru",
+            "Kerropi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?",
+        "correct_answer": "The Shell",
+        "incorrect_answers": [
+            "The Limit",
+            "The Kids",
+            "The Gripes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who voices for Ruby in the animated series RWBY?",
+        "correct_answer": "Lindsay Jones",
+        "incorrect_answers": [
+            "Tara Strong",
+            "Jessica Nigri",
+            "Hayden Panettiere"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Waylon Smithers from \"The Simpsons\" was originally black when he first appeared in the series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Nickelodeon is owned by what parent company?",
+        "correct_answer": "Viacom",
+        "incorrect_answers": [
+            "CBS",
+            "FOX",
+            "ABC"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
+        "correct_answer": "Max Tennyson (Ben 10)",
+        "incorrect_answers": [
+            "Carl Wheezer (Jimmy Neutron)",
+            "Yakko Warner (Animaniacs)",
+            "The Mask (The Mask, TV Series)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the standard frame rate for animation?",
+        "correct_answer": "24 FPS",
+        "incorrect_answers": [
+            "12 FPS",
+            "30 FPS",
+            "60 FPS"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the relationship between Rick and Morty in the show \"Rick and Morty\"?",
+        "correct_answer": "Grandfather and Grandson",
+        "incorrect_answers": [
+            "Father and Son",
+            "Best Friends",
+            "Crimefighting Partners"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is Scooby-Doo's real name?",
+        "correct_answer": "Scoobert",
+        "incorrect_answers": [
+            "Scooter",
+            "Scrappy",
+            "Shooby"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Before becoming the Autobot leader, Optimus Prime was known by what name on Cybertron?",
+        "correct_answer": "Orion Pax",
+        "incorrect_answers": [
+            "Long Haul",
+            "P-138",
+            "Teletran-1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which Teenage Mutant Ninja Turtle traditionally wears an orange bandana?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+            "Leonardo",
+            "Donatello",
+            "Raphael"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? ",
+        "correct_answer": "John Ratzenberger",
+        "incorrect_answers": [
+            "Tom Hanks",
+            "Dave Foley",
+            "Geoffrey Rush"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Donald Duck played the role of Bob Cratchit in Disney's 1983 adaptation of A Christmas Carol.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who created the Cartoon Network series \"Regular Show\"?",
+        "correct_answer": "J. G. Quintel",
+        "incorrect_answers": [
+            "Ben Bocquelet",
+            "Pendleton Ward",
+            "Rebecca Sugar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the name of the Alligator that The Simpsons \"killed\" in the episode \"Kill The Alligator and Run\"?",
+        "correct_answer": "Captain Jack",
+        "incorrect_answers": [
+            "Captain Jake",
+            "Captain Hector",
+            "Captain Flynn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the cartoon character, Andy Capp, known as in Germany?",
+        "correct_answer": "Willi Wakker",
+        "incorrect_answers": [
+            "Dick Tingeler",
+            "Helmut Schmacker",
+            "Rod Tapper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "The song 'Little April Shower' features in which Disney cartoon film?",
+        "correct_answer": "Bambi",
+        "incorrect_answers": [
+            "Cinderella",
+            "Pinocchio",
+            "The Jungle Book"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Butters Stotch, Pip Pirrup, and Wendy Testaburger are all characters in which long running animated TV series?",
+        "correct_answer": "South Park",
+        "incorrect_answers": [
+            "The Simpsons",
+            "Family Guy",
+            "Bob's Burgers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is Everest's favorite food in the Nickelodeon/Nick Jr. series \"PAW Patrol\"?",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+            "Chicken",
+            "Steak",
+            "Caribou"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Night on Bald Mountain was one of the musical pieces featured in Disney's 1940's film Fantasia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of the following did not feature in the cartoon 'Wacky Races'?",
+        "correct_answer": "The Dragon Wagon",
+        "incorrect_answers": [
+            "The Bouldermobile",
+            "The Crimson Haybailer",
+            "The Compact Pussycat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the 1969 Cartoon show \"Dastardly and Muttley in Their Flying Machines\", which were NOT one of the lyrics in the opening theme?",
+        "correct_answer": "Stab him",
+        "incorrect_answers": [
+            "Nab him",
+            "Jab him",
+            "Tab him"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"The Simpsons\", where did Homer and Marge first meet?",
+        "correct_answer": "At Summer Camp",
+        "incorrect_answers": [
+            "At High School",
+            "At Church",
+            "At 742 Evergreen Terrace"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the show \"Steven Universe\", who are the main two employees of The Big Donut?",
+        "correct_answer": "Sadie and Lars",
+        "incorrect_answers": [
+            "Steven and James",
+            "Erik and Julie",
+            "Bob and May"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Bugs Bunny, Tony the Tiger, and other bipedal animal characters are known as what type of character?",
+        "correct_answer": "Anthropomorphic",
+        "incorrect_answers": [
+            "Anthropolegic ",
+            "Anthrologic",
+            "Anthrogenetic"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Bill Cipher in the show \"Gravity Falls\" is the good guy.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the \"Star Wars\" universe, what species is Grand Admiral Thrawn?",
+        "correct_answer": "Chiss",
+        "incorrect_answers": [
+            "Gungans",
+            "Pantorans",
+            "Twi'lek"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What ability does Princess Sofia the First have from her amulet that allows her to breathe underwater?",
+        "correct_answer": "Mermaid Transformation",
+        "incorrect_answers": [
+            "Artificial Gills",
+            "Bubble Head",
+            "Bubble Shield"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?",
+        "correct_answer": "Grape Ape",
+        "incorrect_answers": [
+            "Boss Gator",
+            "Wally Gator",
+            "Yogi Bear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of these is NOT a Disney cartoon character?",
+        "correct_answer": "Daffy Duck",
+        "incorrect_answers": [
+            "Donald Duck",
+            "Daisy Duck",
+            "Scrooge McDuck"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby's All-Star Laff-a-Lympics.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In The Simpsons, which war did Seymour Skinner serve in the USA Army as a Green Beret?",
+        "correct_answer": "Vietnam War",
+        "incorrect_answers": [
+            "World War 2",
+            "World War 1",
+            "Cold War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of these characters from \"SpongeBob SquarePants\" is not a squid?",
+        "correct_answer": "Gary",
+        "incorrect_answers": [
+            "Orvillie",
+            "Squidward",
+            "Squidette"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"Gravity Falls\", what does Quentin Trembley do when he is driven out from the White House?",
+        "correct_answer": "Eat a salamander and jump out the window.",
+        "incorrect_answers": [
+            "Leave in peace.",
+            "Jump out the window.",
+            "Release 1,000 captive salamanders into the white house."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the name of Sid's dog in \"Toy Story\"?",
+        "correct_answer": "Scud",
+        "incorrect_answers": [
+            "Buster",
+            "Whiskers",
+            "Mr. Jones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the name of the creatures that the protagonists of the webshow RWBY fight against?",
+        "correct_answer": "Grimm",
+        "incorrect_answers": [
+            "Reavers",
+            "Heartless",
+            "Dark Ones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the 1993 Disney animated series \"Bonkers\", what is the name of Bonker's second partner?",
+        "correct_answer": "Miranda Wright",
+        "incorrect_answers": [
+            "Dick Tracy",
+            "Eddie Valiant",
+            "Dr. Ludwig von Drake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "The stop motion comedy show \"Robot Chicken\" was created by which of the following?",
+        "correct_answer": "Seth Green",
+        "incorrect_answers": [
+            "Seth MacFarlane",
+            "Seth Rogen",
+            "Seth Rollins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"The Amazing World of Gumball\", who is the principal of Elmore Junior High?",
+        "correct_answer": "Principal Brown",
+        "incorrect_answers": [
+            "Principal Small",
+            "Principal Brawn",
+            "Principal Simeon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"Avatar: The Last Airbender\", which element does Aang begin to learn after being defrosted?",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+            "Air",
+            "Earth",
+            "Fire"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Blue Danube was one of the musical pieces featured in Disney's 1940's film Fantasia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"My Little Pony: Friendship is Magic\", which of these ponies represents the quality of honesty?",
+        "correct_answer": "Applejack",
+        "incorrect_answers": [
+            "Twilight Sparkle",
+            "Pinkie Pie",
+            "Rarity"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show \"Rick and Morty\"?",
+        "correct_answer": "Slam dunk, nothing but net!",
+        "incorrect_answers": [
+            "Hit the sack, Jack!",
+            "Rikki-Tikki-Tavi, biatch!",
+            "Wubba-lubba-dub-dub!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What animated internet character is known to answer emails with his boxing gloves?",
+        "correct_answer": "Strong Bad",
+        "incorrect_answers": [
+            "Strong Sad",
+            "Strong Mad",
+            "Strong Glad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which cartoon family lives in 31 Spooner Street, Quahog, Rhode Island USA?",
+        "correct_answer": "The Griffins",
+        "incorrect_answers": [
+            "The Simpsons",
+            "The Jetsons",
+            "The Hills"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named \"Stitch\"?",
+        "correct_answer": "Lilo",
+        "incorrect_answers": [
+            "Lolo",
+            "Lucy",
+            "Lulu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What was the name of Jonny's pet dog in The Adventures of Jonny Quest?",
+        "correct_answer": "Bandit",
+        "incorrect_answers": [
+            "Lucky",
+            "Rocky",
+            "Max"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What year was the Disney film \"A Goofy Movie\" released?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1999",
+            "2001",
+            "1997"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who played Stan's dog in the South Park episode \"Big Gay Al's Big Gay Boat Ride\"?",
+        "correct_answer": "George Clooney",
+        "incorrect_answers": [
+            "Jay Leno",
+            "Matt Stone",
+            "Robert Smith"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"Gravity Falls\", how much does Waddles weigh when Mable wins him in \"The Time Traveler's Pig\"?",
+        "correct_answer": "15 pounds",
+        "incorrect_answers": [
+            "20 pounds",
+            "10 pounds",
+            "30 pounds"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is Dipper's real name from \"Gravity Falls\"?",
+        "correct_answer": "Mason Pines",
+        "incorrect_answers": [
+            "Mable Pines",
+            "Jason Pines",
+            "Mark Pines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who is the \"dumb blonde\" character in Nickelodeon's \"The Loud House\"?",
+        "correct_answer": "Leni",
+        "incorrect_answers": [
+            "Luan",
+            "Luna",
+            "Lincoln"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+        "correct_answer": "Myrtenaster",
+        "incorrect_answers": [
+            "Gambol Shroud",
+            "Crescent Rose",
+            "Ember Celica"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What was the name of the sea witch in the 1989 Disney film \"The Little Mermaid\"?",
+        "correct_answer": "Ursula",
+        "incorrect_answers": [
+            "Madam Mim",
+            "Maleficent",
+            "Lady Tremaine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the Dreamworks animated movie \"Madagascar,\" who voices Maurice the lemur?",
+        "correct_answer": "Cedric the Entertainer",
+        "incorrect_answers": [
+            "Jack Black",
+            "Sacha Baron Cohen",
+            "Chris Rock"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What town was \"Springfield\" from \"The Simpsons\" originally named after?",
+        "correct_answer": "Springfield, Oregon",
+        "incorrect_answers": [
+            "Springfield, Missouri",
+            "Springfield, Illinois",
+            "Springfield, Massachusetts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of these cartoon girlfriends of popular characters first appeared before their boyfriends?",
+        "correct_answer": "Olive Oyl",
+        "incorrect_answers": [
+            "Minnie Mouse",
+            "Lola Bunny",
+            "Daisy Duck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "How many episodes were in season five of Samurai Jack?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "12",
+            "11",
+            "13"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What was Maggie Simpson's first canonical word, not including the Tracey Ullman shorts?",
+        "correct_answer": "Daddy.",
+        "incorrect_answers": [
+            "Sequel?",
+            "Ja!",
+            "Rusty!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the web-comic Homestuck, what is the name of the game the 4 kids play?",
+        "correct_answer": "Sburb",
+        "incorrect_answers": [
+            "Homesick",
+            "Husslie",
+            "Hiveswap"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which 'Family Guy' character got his own spin-off show in 2009?",
+        "correct_answer": "Cleveland Brown",
+        "incorrect_answers": [
+            "Glenn Quagmire",
+            "Joe Swanson",
+            "The Greased-up Deaf Guy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Townsend Coleman provided the voice for which turtle in the original 1987 series of \"Teenage Mutant Ninja Turtles\"?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+            "Leonardo",
+            "Donatello",
+            "Raphael"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who created the Cartoon Network series \"Adventure Time\"?",
+        "correct_answer": "Pendleton Ward",
+        "incorrect_answers": [
+            "J. G. Quintel",
+            "Ben Bocquelet",
+            "Rebecca Sugar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In My Little Pony, what is the name of Applejack's younger sister?",
+        "correct_answer": "Apple Bloom",
+        "incorrect_answers": [
+            "Red Delicious",
+            "Apple Sweets",
+            "Apple Fritter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the name of Ruby Rose's weapon from RWBY?",
+        "correct_answer": "Crescent Rose",
+        "incorrect_answers": [
+            "Thorned Rosebud",
+            "Magnhild",
+            "Crooked Scythe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who voiced Finn in Adventure Time?",
+        "correct_answer": "Jeremy Shada",
+        "incorrect_answers": [
+            "Nolan North",
+            "John DiMaggio",
+            "Tom Kenny"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the show \"Fat Albert and the Cosby Kids\", what is the name of the characters' fictional gang?",
+        "correct_answer": "The Junkyard Gang",
+        "incorrect_answers": [
+            "The Trash Troupe",
+            "The Scrapyard Seven",
+            "The Rotten Posse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who was the villain of ''The Lion King''?",
+        "correct_answer": "Scar",
+        "incorrect_answers": [
+            "Fred",
+            "Jafar",
+            "Vada"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who voice acted the character Hiccup in the movie \"How to Train Your Dragon\"?",
+        "correct_answer": "Jay Baruchel",
+        "incorrect_answers": [
+            "Jack Brauchel",
+            "John Powell",
+            "Gerard Butler"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In South Park, what is Stan's surname?",
+        "correct_answer": "Marsh",
+        "incorrect_answers": [
+            "Stotch",
+            "Broflovski",
+            "Tweak"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which \"Toy Story\" character was voiced by Don Rickles?",
+        "correct_answer": "Mr. Potato Head",
+        "incorrect_answers": [
+            "Slinky Dog",
+            "Hamm",
+            "Rex"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which singer provided the voice of Metroid's Mother Brain in the animated series \"Captain N: The Game Master\"?",
+        "correct_answer": "Levi Stubbs",
+        "incorrect_answers": [
+            "Freddie Mercury",
+            "Janet Jackson",
+            "Joan Jett"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which cartoon family lives in 742 Evergreen Terrace, Springfield USA?",
+        "correct_answer": "The Simpsons",
+        "incorrect_answers": [
+            "The Hills",
+            "The Flintstones",
+            "The Griffins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Wendy O. Koopa appeared in the Super Mario DIC Cartoons, but what was she known as?",
+        "correct_answer": "Kootie Pie",
+        "incorrect_answers": [
+            "Sweetie Pie",
+            "Wendy Pie",
+            "Honey Pie"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "When did the last episode of \"Futurama\" air before returning in 2023?",
+        "correct_answer": "September 4, 2013",
+        "incorrect_answers": [
+            "December 25, 2010",
+            "March 28, 1999",
+            "November 4, 2021"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the surname of one of the male teachers in the BBC series Postman Pat?",
+        "correct_answer": "Pringle",
+        "incorrect_answers": [
+            "Walker",
+            "Dorito",
+            "Lays"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of the following films was Don Bluth both the writer, director, and producer for?",
+        "correct_answer": "All Dogs Go To Heaven",
+        "incorrect_answers": [
+            "Titan A.E.",
+            "Anastasia",
+            "The Land Before Time"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What Cartoon Network show aired its first episode on November 4th, 2013?",
+        "correct_answer": "Steven Universe",
+        "incorrect_answers": [
+            "Regular Show",
+            "Adventure Time",
+            "The Amazing World of Gumball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What is the name of the city that The Flintstones is based in?",
+        "correct_answer": "Bedrock",
+        "incorrect_answers": [
+            "Stoneville",
+            "Rockhampton",
+            "Boulder City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Benny, Brain, Fancy-Fancy, Spook and Choo-Choo were known associates of what Hanna Barbera cartoon character?",
+        "correct_answer": "Top Cat",
+        "incorrect_answers": [
+            "Yogi Bear",
+            "Snagglepuss",
+            "Scooby-Doo"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "The first ever episode of Family Guy, \"Death Has A Shadow,\" aired on January 1st, 2002.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Nickelodeon rejected the pilot to Adventure Time.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the Pixar film, \"Toy Story\" what was the name of the child who owned the toys?",
+        "correct_answer": "Andy",
+        "incorrect_answers": [
+            "Edward",
+            "Danny",
+            "Matt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "What was the first Disney movie to use CGI?",
+        "correct_answer": "The Black Cauldron",
+        "incorrect_answers": [
+            "Tron",
+            "Toy Story",
+            "Fantasia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Who created \"RWBY\"?",
+        "correct_answer": "Monty Oum",
+        "incorrect_answers": [
+            "Miles Luna",
+            "Kerry Shawcross",
+            "Shane Newville"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which city did Anger berate for ruining pizza in \"Inside Out\"?",
+        "correct_answer": "San Francisco",
+        "incorrect_answers": [
+            "Minnesota",
+            "Washington",
+            "California"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In the show \"Foster's Home For Imaginary Friends\", which character had an obsession with basketball?",
+        "correct_answer": "Wilt",
+        "incorrect_answers": [
+            "Coco",
+            "Mac",
+            "Cheese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?",
+        "correct_answer": "Rose Marene",
+        "incorrect_answers": [
+            "Pinkie Pie",
+            "Maud Pie",
+            "Rainbow Dash"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "Adam West was the mayor of which cartoon town?",
+        "correct_answer": "Quahog",
+        "incorrect_answers": [
+            "Springfield",
+            "South Park",
+            "Langley Falls"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon & Animations",
+        "question": "In \"Rick and Morty\", from which dimension do Rick and Morty originate from?",
+        "correct_answer": "C-137",
+        "incorrect_answers": [
+            "J1977",
+            "C-136",
+            "C500-a"
+        ]
+    }
+]
