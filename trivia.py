@@ -1,3 +1,4 @@
+import sys
 import json
 from pathlib import \
     Path  # Importing the 'Path' class from the 'pathlib' module
@@ -11,8 +12,11 @@ from requests import \
 token = get("https://opentdb.com/api_token.php?command=request").json()[
     "token"
 ]  # Sending a GET request to obtain an API token from a URL and extracting the token value from the JSON response
+arg_category_start = ( 0 )
+if len(sys.argv) > 1:
+    arg_category_start = int(sys.argv[1])
 num = (
-    9  # Assigning the value 9 to the variable 'num' (the first trivia category number)
+    9 + arg_category_start # Assigning the value 9 to the variable 'num' (the first trivia category number)
 )
 count = 50  # Assigning the value 50 to the variable 'count'
 questions_written = 0  # Assigning the value 0 to the variable 'questions_written'
@@ -40,7 +44,7 @@ while 1:  # Starting an infinite loop
     )  # Calculating the number of questions remaining for the current trivia category
 
     print(
-        f"{left_count} questions left in {unquote(current)}"
+        f"{left_count} questions left in {unquote(current)}, number {num - 9}"
     )  # Printing the number of questions remaining for the current trivia category
 
     if (
