@@ -16,7 +16,6 @@ num = (
 )
 count = 50  # Assigning the value 50 to the variable 'count'
 questions_written = 0  # Assigning the value 0 to the variable 'questions_written'
-current_count = 0
 to_save = []
 
 while 1:  # Starting an infinite loop
@@ -37,9 +36,8 @@ while 1:  # Starting an infinite loop
     ]  # Sending a GET request to obtain the total question count for the current trivia category from a URL and extracting it from the JSON response
 
     left_count = (
-        full_count - current_count
+        full_count - questions_written
     )  # Calculating the number of questions remaining for the current trivia category
-    current_count = left_count
 
     print(
         f"{left_count} questions left in {unquote(current)}"
@@ -63,24 +61,16 @@ while 1:  # Starting an infinite loop
     results = data["results"]
     if len(results) > 0:
         print(  # Print a success message
-            f"Successfully retrieved {len(data['results'])} questions to {unquote(current)}.json. Total questions: {current_count + len(data['results'])}"
+            f"Successfully retrieved {len(data['results'])} questions to {unquote(current)}.json. Total questions: {questions_written + len(data['results'])}"
         )
         to_save.extend(results)
         questions_written += (
             count  # Increment the total question count by the desired question count
         )
         if (
-            questions_written >= full_count
+            questions_written > full_count
         ):  # If the total question count is greater than or equal to the full question count
-            num += 1  # Increment the category number
-
-            count = 50  # Reset the desired question count to 50
-
-            if num == 33:  # If the category number is 33
-                print("Done!")  # Print a completion message
-
-                break  # Break the loop
-            questions_written = 0  # Reset the total question count
+            print("BUG in logic. Ignore this")
         sleep(
             5.01
         )  # Pause the execution of the program for a little over 5 seconds (to avoid exceeding the API request limit)
@@ -101,6 +91,7 @@ while 1:  # Starting an infinite loop
         to_save = []
 
         count = 50  # Reset the desired question count to 50
+        current_count = 0
 
         if num == 33:  # If the category number is 33
             print("Done!")  # Print a completion message
