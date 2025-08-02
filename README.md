@@ -38,4 +38,5 @@ This will create CSV files in the same directory as the script. Each file will b
 
 ## Attribution and license
 The trivia questions are provided by: https://opentdb.com
+
 Under the license: https://creativecommons.org/licenses/by-sa/4.0/
