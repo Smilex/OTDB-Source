@@ -1,6 +1,4 @@
-from csv import \
-    writer as \
-    csv_writer  # Importing the 'writer' function from the 'csv' module and aliasing it as 'csv_writer'
+import json
 from pathlib import \
     Path  # Importing the 'Path' class from the 'pathlib' module
 from time import sleep  # Importing the 'sleep' function from the 'time' module
@@ -18,6 +16,8 @@ num = (
 )
 count = 50  # Assigning the value 50 to the variable 'count'
 questions_written = 0  # Assigning the value 0 to the variable 'questions_written'
+current_count = 0
+to_save = []
 
 while 1:  # Starting an infinite loop
     current = get(f"https://opentdb.com/api_category.php").json()["trivia_categories"][
@@ -27,8 +27,8 @@ while 1:  # Starting an infinite loop
     ]  # Sending a GET request to obtain the current trivia category name from a URL and extracting it from the JSON response
 
     file_path = Path(
-        f"{unquote(current)}.csv"
-    ).touch()  # Creating a new file with the name of the current trivia category, URL decoding the category name and appending '.csv' extension
+        f"{unquote(current)}.json"
+    ).touch()  # Creating a new file with the name of the current trivia category, URL decoding the category name and appending '.json' extension
 
     full_count = get(f"https://opentdb.com/api_count.php?category={num}").json()[
         "category_question_count"
@@ -36,13 +36,10 @@ while 1:  # Starting an infinite loop
         "total_question_count"
     ]  # Sending a GET request to obtain the total question count for the current trivia category from a URL and extracting it from the JSON response
 
-    current_count = (
-        open(f"{unquote(current)}.csv", "r").read().count("\n")
-    )  # Opening the file for the current trivia category in read mode, reading its contents, and counting the number of newline characters to determine the current question count
-
     left_count = (
         full_count - current_count
     )  # Calculating the number of questions remaining for the current trivia category
+    current_count = left_count
 
     print(
         f"{left_count} questions left in {unquote(current)}"
@@ -63,20 +60,12 @@ while 1:  # Starting an infinite loop
         )
     ).json()  # Convert the API response to JSON
 
-    if "results" in data:  # If the API response contains a 'results' field
-        with open(
-            f"{unquote(current)}.csv", "a+", newline=""
-        ) as file:  # Open the current category's CSV file in append mode
-            writer = csv_writer(file)  # Create a CSV writer
-
-            for result in data["results"]:  # For each result in the API response
-                writer.writerow(
-                    [result["question"], result["correct_answer"]]
-                )  # Write the question and correct answer to the CSV file
-
-            print(  # Print a success message
-                f"Successfully wrote {len(data['results'])} questions to {unquote(current)}.csv. Total questions: {current_count + len(data['results'])}"
-            )
+    results = data["results"]
+    if len(results) > 0:
+        print(  # Print a success message
+            f"Successfully retrieved {len(data['results'])} questions to {unquote(current)}.json. Total questions: {current_count + len(data['results'])}"
+        )
+        to_save.extend(results)
         questions_written += (
             count  # Increment the total question count by the desired question count
         )
@@ -96,7 +85,20 @@ while 1:  # Starting an infinite loop
             5.01
         )  # Pause the execution of the program for a little over 5 seconds (to avoid exceeding the API request limit)
     else:  # If the API response does not contain a 'results' field
+        for question in to_save:
+            for key, value in question.items():
+                if isinstance(value, str):
+                    question[key] = unquote(value)
+
+        with open(
+            f"{unquote(current)}.json", "w", newline=""
+        ) as file:  # Open the current category's CSV file in append mode
+            json.dump(to_save, file, indent=4)
+
+        print("Wrote to file")
+
         num += 1  # Increment the category number
+        to_save = []
 
         count = 50  # Reset the desired question count to 50
 
