@@ -23,7 +23,9 @@ questions_written = 0  # Assigning the value 0 to the variable 'questions_writte
 to_save = []
 
 while 1:  # Starting an infinite loop
-    current = get(f"https://opentdb.com/api_category.php").json()["trivia_categories"][
+    categories = get(f"https://opentdb.com/api_category.php").json()["trivia_categories"]
+    total_categories = len(categories)
+    current = categories[
         num - 9
     ][
         "name"
@@ -102,7 +104,7 @@ while 1:  # Starting an infinite loop
         count = 50  # Reset the desired question count to 50
         current_count = 0
 
-        if num == 33:  # If the category number is 33
+        if num >= total_categories:  # If the category number is 33
             print("Done!")  # Print a completion message
 
             break  # Break the loop
